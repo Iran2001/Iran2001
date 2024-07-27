@@ -1,6 +1,8 @@
 ![logo](https://github.com/Iran2001/My-Git-Profile/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+[![GitHub followers](https://img.shields.io/github/followers/Iran2001.svg?style=social&label=Followers)](https://github.com/Iran2001?tab=followers)
 <h1 align="center">Hi 👋, I'm Lahiru Iran</h1>
-<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iran2001&label=Profile%20views&color=0e75b6&style=flat" alt="iran2001" /> </p>
 
@@ -10,6 +12,39 @@
 
 - 📫 How to reach me **lahiruhiripitiya18@gmail.com**
 
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
+🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
+🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
+Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
+Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
+Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
+
+```
+
+
+
+<!--END_SECTION:waka-->
+
+⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2020.
+
+---<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lahiru hiripitiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahiru hiripitiya" height="30" width="40" /></a>
@@ -24,3 +59,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iran2001&show_icons=true&locale=en" alt="iran2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iran2001&" alt="iran2001" /></p>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
