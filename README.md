@@ -1,6 +1,6 @@
 ![logo](https://github.com/Iran2001/My-Git-Profile/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-[![GitHub followers](https://img.shields.io/github/followers/Iran2001.svg?style=social&label=Followers)](https://github.com/Iran2001?tab=followers)
+
 <h1 align="center">Hi 👋, I'm Lahiru Iran</h1>
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45" align="center">
 
